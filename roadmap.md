@@ -1,4 +1,4 @@
 - [x] Download and inspect the GitHub repository safely
-- [ ] Import repository source unchanged into the project
-- [ ] Install repository dependencies
+- [x] Import repository source unchanged (excluding private .env)
+- [x] Install repository dependencies
 - [ ] Verify the imported preview and report any external setup still needed
